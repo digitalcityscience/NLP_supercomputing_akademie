@@ -291,7 +291,7 @@ pydocstyle @ file:///C:/b/abs_6dz687_5i3/croot/pydocstyle_1675221688656/work
 pyee==8.2.2
 pyerfa @ file:///C:/ci/pyerfa_1621560974055/work
 pyflakes @ file:///C:/b/abs_6dve6e13zh/croot/pyflakes_1674165143327/work
-Pygments==2.14.0
+Pygments==2.15.0
 PyJWT @ file:///C:/ci/pyjwt_1657511236979/work
 pyLDAvis==3.3.1
 pylint @ file:///C:/b/abs_83sq99jc8i/croot/pylint_1676919922167/work
