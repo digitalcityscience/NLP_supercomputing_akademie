@@ -445,7 +445,7 @@ tzlocal==4.2
 ujson @ file:///C:/ci/ujson_1657525944442/work
 Unidecode @ file:///tmp/build/80754af9/unidecode_1614712377438/work
 uritemplate==4.1.1
-urllib3==1.26.14
+urllib3==1.26.18
 validators==0.20.0
 w3lib @ file:///Users/ktietz/demo/mc3/conda-bld/w3lib_1629359764703/work
 wandb==0.13.10
