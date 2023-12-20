@@ -435,7 +435,7 @@ torchvision==0.14.1
 tornado @ file:///C:/ci/tornado_1662458743919/work
 tqdm @ file:///C:/b/abs_f76j9hg7pv/croot/tqdm_1679561871187/work
 traitlets @ file:///C:/b/abs_e5m_xjjl94/croot/traitlets_1671143896266/work
-transformers==4.26.1
+transformers==4.36.0
 Twisted @ file:///C:/b/abs_f1pc_rieoy/croot/twisted_1683796899561/work
 twisted-iocpsupport @ file:///C:/ci/twisted-iocpsupport_1646798932792/work
 typer==0.7.0
