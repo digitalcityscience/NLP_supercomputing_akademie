@@ -112,7 +112,7 @@ future @ file:///C:/b/abs_3dcibf18zi/croot/future_1677599891380/work
 gast==0.4.0
 gensim @ file:///C:/b/abs_a5vat69tv8/croot/gensim_1674853640591/work
 gitdb==4.0.10
-GitPython==3.1.30
+GitPython==3.1.41
 glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
 globre==0.1.5
 google-api-core==2.11.0
