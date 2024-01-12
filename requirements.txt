@@ -396,7 +396,7 @@ SQLAlchemy @ file:///C:/Windows/Temp/abs_f8661157-660b-49bb-a790-69ab9f3b8f7c8a8
 srsly==2.4.5
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 statsmodels @ file:///C:/b/abs_bdqo3zaryj/croot/statsmodels_1676646249859/work
-streamlit==1.19.0
+streamlit==1.30.0
 sympy @ file:///C:/b/abs_95fbf1z7n6/croot/sympy_1668202411612/work
 tables==3.7.0
 tabulate @ file:///C:/ci/tabulate_1657619055201/work
